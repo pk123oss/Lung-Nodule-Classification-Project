@@ -1,0 +1,13 @@
+test      >dl                        > derivation >若干个命名文件夹 > PSIR_roi.nii和PSIR_roi-label.nii
+					  >  vali set1    >若干个命名文件夹 > PSIR_roi.nii和PSIR_roi-label.nii
+					  >  vali set2    >若干个命名文件夹 > PSIR_roi.nii和PSIR_roi-label.nii
+
+	     >radiomics         > derivation >deri set.csv
+								>derivation enhance.csv
+								>derivation normal.csv
+					   >  vali set1  >vali enhance.csv
+								>vali normal.csv
+								>valid set1.csv
+					   >  vali set2  >vali enhance.csv
+								>vali normal.csv
+								>valid set2.csv
