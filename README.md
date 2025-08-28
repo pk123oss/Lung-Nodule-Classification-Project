@@ -1,17 +1,15 @@
-<img width="1131" height="738" alt="image" src="https://github.com/user-attachments/assets/766e3bb0-18d8-4cf2-b00c-af174abb744a" /># Lung-Nodule-Classification-Project
+#
 这是一个基于深度学习的肺部结节侵袭性分类系统，结合3D医学影像与放射组学特征进行多模态分析。项目提供完整的数据可视化、模型训练和评估流程，专门针对医学影像数据的特点进行了优化。
 A deep learning-based lung nodule invasiveness classification system that combines 3D medical imaging with radiomics features for multimodal analysis. The project provides a complete pipeline for data visualization, model training, and evaluation, specifically optimized for medical imaging data characteristics.
 
 
 Epoch 25/25 Summary:
-训练样本: 2152/2153
-验证样本: 539/539
 Train Loss: 0.0159 | Acc: 0.9963
 Val Loss: 0.0087 | Acc: 0.9963 | AUC: 1.0000
 Val F1: 0.9963 | Precision: 0.9926 | Recall: 1.0000
 --------------------------------------------------
 
-
+<img width="1131" height="738" alt="image" src="https://github.com/user-attachments/assets/766e3bb0-18d8-4cf2-b00c-af174abb744a" /># Lung-Nodule-Classification-Project
 
 lung-nodule-classification/
 📊 GetData.py              # 数据加载和可视化工具
