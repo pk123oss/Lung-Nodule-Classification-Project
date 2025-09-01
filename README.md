@@ -1,5 +1,6 @@
 #
-这是一个基于深度学习的肺部结节侵袭性分类系统，结合3D医学影像与放射组学特征进行多模态分析。项目提供完整的数据可视化、模型训练和评估流程，专门针对医学影像数据的特点进行了优化。
+这是一个基于#深度学习#的肺部结节侵袭性分类系统，结合3D医学影像与放射组学特征进行多模态分析。项目提供完整的数据可视化、模型训练和评估流程，专门针对医学影像数据的特点进行了优化。
+#
 A deep learning-based lung nodule invasiveness classification system that combines 3D medical imaging with radiomics features for multimodal analysis. The project provides a complete pipeline for data visualization, model training, and evaluation, specifically optimized for medical imaging data characteristics.
 
 
